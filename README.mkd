@@ -7,7 +7,9 @@ Installation
 ------------
 
 git clone git@github.com:jonnyjohannes/qdata.git
+
 cd qdata
+
 npm install
 
 Start the server
