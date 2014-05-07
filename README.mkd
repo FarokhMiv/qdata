@@ -1,0 +1,17 @@
+Quantum Data Web App
+====================
+
+The API and web server for the Quantum Data Project
+
+Installation
+------------
+
+npm install
+
+Start the server
+----------------
+
+npm start
+
+Then in the web browser visit: http://localhost:4000
+
