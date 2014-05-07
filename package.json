@@ -38,3 +38,4 @@
     "test": "./node_modules/.bin/mocha -u tdd tests"
   }
 }
+this is a test!
