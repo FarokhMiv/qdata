@@ -1,16 +1,30 @@
 {
-  "name": "QData",
-  "author": { 
-    "Jonny Johannes <jonny@jonnyjohannes.com>",
-    "Farokh Mivehvar <farokh.mivehvar@gmail.com>",
-    "Ehsan Zahedinejad <ehsanzahedinejad@gmail.com>",
-    "Memmed Mirza <mtt013@gmail.com>"
-  }
+  "name": "sesistats-api",
+  "author": "Quantum Data Group",
+  "contributors": [ 
+    {
+      "name": "Jonny Johannes",
+      "email": "jonny@jonnyjohannes.com"
+    },
+    {
+      "name": "Farokh Mivehvar",
+      "email": "farokh.mivehvar@gmail.com"
+    },
+    {
+      "name": "Ehsan Zahedinejad",
+      "email": "ehsanzahedinejad@gmail.com"
+    },
+    {
+      "name": "Memmed Mirza",
+      "email": "mtt013@gmail.com"
+    }
+  ],
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express":       "3.x",
+    "express":       "3.4.7",
     "mongoose":      "*",
+    "node-catsapi":  "git://github.com/jonnyjohannes/node-catsapi.git#master"
   },
   "devDependencies": {
     "supervisor":               "*",
